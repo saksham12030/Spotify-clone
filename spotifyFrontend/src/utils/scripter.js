@@ -1,1 +1,1 @@
-export const backend = "https://spotify-clonejs.vercel.app";
+export const backend = "https://spotffy-backend.vercel.app/";
